@@ -1,0 +1,1 @@
+Bug-tracking of the ontomaster-diagnostic: http://www.ontomaster.ru/diagnostic/
